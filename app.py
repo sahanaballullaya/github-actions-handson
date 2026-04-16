@@ -1,0 +1,1 @@
+print("GitHub Actions practice is working")
